@@ -1,0 +1,6 @@
+{
+  "name": "Cloudfinity",
+  "description": "Secure 1TB Cloud Storage & File Manager. Upload, access, and share your files seamlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
